@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ws3RIIV0Vpu+SDN8kzbPgh/5brqSZlC5YF+OmGgEnuPt88iFQ5GfmBiWJ2Gp9kvAMS/NnR1yRKJVYcrdGDhu+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aluno TDS\\Desktop\\Victor Marin - TDS\\MODULO 2\\c-sharp\\c-sharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno TDS\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Aluno TDS\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Aluno TDS\\.nuget\\packages\\selenium.webdriver\\4.15.0\\selenium.webdriver.4.15.0.nupkg.sha512",
+    "C:\\Users\\Aluno TDS\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
